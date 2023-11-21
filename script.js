@@ -7,7 +7,7 @@ class Rectangle {
 
 	get getWidth(){
 	return this.width;
- }
+    }
 	get getHeight(){
 		return this.height;
 	}
